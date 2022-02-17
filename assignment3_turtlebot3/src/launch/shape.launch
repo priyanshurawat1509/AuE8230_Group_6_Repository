@@ -1,0 +1,14 @@
+<launch>
+    <arg name="shape"/> 
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch"/>
+    
+    <group if="$(eval arg('shape') == 'circle')">
+    <node pkg="assignment3_turtlebot3" type="circle.py" name="circle">
+    </node>
+    </group>
+    
+    <group if="$(eval arg('shape') == 'square')">
+    <node pkg="assignment3_turtlebot3" type="square_openloop.py" name="square">
+    </node>
+    </group>
+</launch>

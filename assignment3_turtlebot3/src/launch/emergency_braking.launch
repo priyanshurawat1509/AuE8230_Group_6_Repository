@@ -1,0 +1,8 @@
+<launch>
+    <arg name="shape"/> 
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_wall.launch"/>
+    
+    <node pkg="assignment3_turtlebot3" type="emergency_braking.py" name="emergency_braking">
+    </node>
+
+</launch>
