@@ -8,11 +8,11 @@ def PID(error, Kp=0.69): #defing a function for P-Controller
     return Kp*error 
     	
 def wallfollow(data): #defining a wall following function
-    lidar_scan = list(data.ranges[0:359]) # Storing LiDAR data 
+    lidar_scan = list(data.ranges[0:359]) #storing LiDAR data 
     scan = []
     for i in range(len(lidar_scan)):
         if lidar_scan[i]<3:
-            scan.append(lidar_scan[i]) #Taking only values less than '3'  
+            scan.append(lidar_scan[i]) #taking only values less than '3'  
 
     right = scan[-90:-16]
     right = sum(right)/len(right) #average distance of obstacles on the right 
