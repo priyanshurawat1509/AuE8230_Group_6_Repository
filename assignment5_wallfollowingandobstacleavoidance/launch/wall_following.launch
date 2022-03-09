@@ -1,0 +1,8 @@
+<launch>
+   
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_wallfollowing.launch"/>
+    
+    <node pkg="assignment5_wallfollowingandobstacleavoidance" type="wall_following.py" name="wall_following">
+    </node>
+
+</launch>
