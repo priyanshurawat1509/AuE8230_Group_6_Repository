@@ -19,7 +19,7 @@ This package consists of scripts and launch files to achieve the following tasks
 
 The python file `sim_follow_line.py` for this task is stored in the `scripts` folder and was used to run turtlebot track following in gazebo. The `sim_follow_line.launch` file launches both the python script and gazebo world. For the simulation environment, the turtlebot follows a <I>'Yellow'</I> track. 
 
-The following command can be used to run the launch file - 
+<b>The following command can be used to run the launch file - </b>
 
 `roslaunch assignment6_trackingandfollowing sim_follow_line.launch`
 
@@ -31,9 +31,11 @@ https://user-images.githubusercontent.com/83747696/160032070-63933c6f-f533-4bed-
 
 The python file `sim2real_follow_line.py` for this task is stored in the `scripts` folder. This task deals with running turtlebot track following in real-world. For the real-world environment the turtlebot follows a <I>'White'</I> track. Appropriate values of Kp, and HSV values were define to achieve the desired outcome.
 
-The following command can be used to run the python script - 
+<b>The following command can be used to run the python script - </b>
 
 `rosrun assignment6_trackingandfollowing sim2real_follow_line.py`
+
+<h4>OUTPUT:</h4>
 
 https://user-images.githubusercontent.com/83747696/160025485-8e8ba8ee-4311-4e67-94f9-943dd7926964.mp4
 
