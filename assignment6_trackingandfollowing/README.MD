@@ -73,6 +73,8 @@ Once, the tag was detected the python file `april_tag_tracking.py` was used to t
 
 `rosrun assignment6_trackingandfollowing april_tag_tracking.py`
 
+<h4>OUTPUT</h4>
+
 https://user-images.githubusercontent.com/83747696/160017643-649b203a-664e-4dc3-aed8-ebd8de31c8a4.mp4
 
 <h3>POINTS TO NOTE</h3>
