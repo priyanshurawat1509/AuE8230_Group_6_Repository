@@ -2,12 +2,12 @@
 
 This Readme file contains information about this package and the demo videos for each tasks.
 
-<h2>Outcomes:</h2>
+<h2>Outcomes</h2>
 
 1.  Manipulating image data for tracking a point.
 2.  Implementing path tracking controllers in Python
 
-<h2>Contents:</h2>
+<h2>Contents</h2>
 
 This package consists of scripts and launch files to achieve the following tasks:
 
@@ -23,7 +23,7 @@ The python file `sim_follow_line.py` for this task is stored in the `scripts` fo
 
 `roslaunch assignment6_trackingandfollowing sim_follow_line.launch`
 
-<h4>OUTPUT:</h4>
+<h4>OUTPUT</h4>
 
 https://user-images.githubusercontent.com/83747696/160032070-63933c6f-f533-4bed-b579-e2e7e482b3ea.mp4
 
@@ -35,7 +35,7 @@ The python file `sim2real_follow_line.py` for this task is stored in the `script
 
 `rosrun assignment6_trackingandfollowing sim2real_follow_line.py`
 
-<h4>OUTPUT:</h4>
+<h4>OUTPUT</h4>
 
 https://user-images.githubusercontent.com/83747696/160025485-8e8ba8ee-4311-4e67-94f9-943dd7926964.mp4
 
