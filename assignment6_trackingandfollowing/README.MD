@@ -21,7 +21,7 @@ This task deals with running turtlebot track following in gazebo. All python cod
 
 In the scripts folder, you will find `sim_follow_line.py` and `sim2real_follow_line.py`. The first python script was used to run turtlebot in gazebo, while the second python script was used to run turtlebot in real-world. The `sim_follow_line.launch` file launches both the python script and gazebo world for the simulation part of the task. For the simulation environment, the turtlebot follows a <I>'Yellow'</I> track, while for the real-world environment the turtlebot follows a <I>'White'</I> track. In both tasks appropriate values of Kp, and HSV values were define to achieve the desired outcome.
 
-<h4>Output</h4>
+<h4>OUTPUT:</h4>
 
 https://user-images.githubusercontent.com/83747696/160032070-63933c6f-f533-4bed-b579-e2e7e482b3ea.mp4
 
