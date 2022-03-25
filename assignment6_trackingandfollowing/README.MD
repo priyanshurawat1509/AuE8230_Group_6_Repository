@@ -81,5 +81,4 @@ https://user-images.githubusercontent.com/83747696/160017643-649b203a-664e-4dc3-
 2. We used the following packages for the task:
 
     https://github.com/AprilRobotics/apriltag_ros
-  
     https://github.com/opencv/opencv
