@@ -75,7 +75,7 @@ Once, the tag was detected the python file `april_tag_tracking.py` was used to t
 
 https://user-images.githubusercontent.com/83747696/160017643-649b203a-664e-4dc3-aed8-ebd8de31c8a4.mp4
 
-<h2>Citations :- </h2>
+<h2>POINTS TO NOTE</h2>
 
 1. We strongly suggest you using a fast and reliable 5GHz network which we used during the development of this code as the amount of active nodes at one point will hamper the data transfer process leading to the images being recieved not in sync.
 2. We used the following packages for the task:
