@@ -1,6 +1,6 @@
 <h1>Assignment 6: Line Following and Apriltag Tracking</h1>
 
-<h7>This Readme file contains information about this package and the demo videos for each tasks.</h7>
+<h6>This Readme file contains information about this package and the demo videos for each tasks.</h6>
 
 https://user-images.githubusercontent.com/83747696/160032070-63933c6f-f533-4bed-b579-e2e7e482b3ea.mp4
 
