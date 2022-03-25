@@ -9,17 +9,17 @@ This Readme file contains information about this package and the demo videos for
 
 <h2>Contents:</h2>
 
-This package consists of 3 parts:
+This package consists of scripts and launch files to achieve the following tasks:
 
-1. Turtlebot following lane in simulation (gazebo)
-2. Turtlebot following lane in real world
-3. Turtlebot burger following the april tag (ID=0)
+- Turtlebot following lane in simulation (gazebo)
+- Turtlebot following lane in real world
+- Turtlebot burger following the april tag (ID=0)
 
 <h3>Part 1: Track Following in Simulation</h3>
 
 This task deals with running turtlebot track following in gazebo. All python code files are stored in the scripts folder by the names - `linefollower_sim.py` and `follow_line_step_hsv.py`.
 
-In the scripts folder, you will find `sim_follow_line.py` and `sim2real_follow_line.py`. The first python script was used to run turtlebot in gazebo, while the second python script was used to run turtlebot in real-world. The `sim_follow_line.launch` file launches both the python script and gazebo world for the simulation part of the task. For the simulation environment, the turtlebot follows a 'Yellow' track, while for the real-world environment the turtlebot follows a 'White' track. In both tasks appropriate values of Kp, and HSV values were define to achieve the desired outcome.
+In the scripts folder, you will find `sim_follow_line.py` and `sim2real_follow_line.py`. The first python script was used to run turtlebot in gazebo, while the second python script was used to run turtlebot in real-world. The `sim_follow_line.launch` file launches both the python script and gazebo world for the simulation part of the task. For the simulation environment, the turtlebot follows a <I>'Yellow'</I> track, while for the real-world environment the turtlebot follows a <I>'White'</I> track. In both tasks appropriate values of Kp, and HSV values were define to achieve the desired outcome.
 
 <h4>Output</h4>
 
