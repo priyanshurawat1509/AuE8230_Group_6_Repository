@@ -2,6 +2,14 @@
 
 <h6>This Readme file contains information about this package and the demo videos for each tasks.</h6>
 
+Outcomes:
+
+1.  Manipulating image data for tracking a point.
+2.  Implementing path tracking controllers in Python
+
+
+
+
 https://user-images.githubusercontent.com/83747696/160032070-63933c6f-f533-4bed-b579-e2e7e482b3ea.mp4
 
 
