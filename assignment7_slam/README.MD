@@ -27,3 +27,5 @@ This task concerned with the MAP generation using the 2D lidar in real environme
 <h3>Comparision between the two LiDARs</h3>
 
 For this task, we have replaced the 2D LiDAR on the turtlebot with a `Hokuyo 3D LiDAR` and visualized the output in rviz by placing the turtlebot in a gazebo environment.
+
+![Screenshot from 2022-03-31 12-38-37](https://user-images.githubusercontent.com/83747696/161106357-4638c044-df66-49ba-ad22-0f3a37303e6e.png)
