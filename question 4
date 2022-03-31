@@ -1,0 +1,3 @@
+The main difference in the maps generated is that one of the map is 2D and the other is 3D map. The obstacles
+can be detected easily in the 3D slam map, whereas in the 2D objects are detected only if the obstacles are as
+tall as the laser scan. 
